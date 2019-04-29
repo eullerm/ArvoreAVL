@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libArvore.a  CMakeFiles/Arvore.dir/library.c.obj
+C:\MinGW\bin\ranlib.exe libArvore.a
